@@ -160,7 +160,7 @@ return (
       <main className={classes.content}>
         <div className={classes.toolbar} />
         <Typography paragraph>
-        hola
+        hola2 porque si
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
           ut labore et dolore magna aliqua. Rhoncus dolor purus non enim praesent elementum
           facilisis leo vel. Risus at ultrices mi tempus imperdiet. Semper risus in hendrerit
